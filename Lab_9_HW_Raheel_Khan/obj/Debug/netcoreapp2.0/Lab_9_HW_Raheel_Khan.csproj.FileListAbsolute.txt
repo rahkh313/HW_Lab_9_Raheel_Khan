@@ -1,0 +1,11 @@
+c:\users\raheel.khan\source\repos\Lab_9_HW_Raheel_Khan\Lab_9_HW_Raheel_Khan\obj\Debug\netcoreapp2.0\Lab_9_HW_Raheel_Khan.csprojResolveAssemblyReference.cache
+c:\users\raheel.khan\source\repos\Lab_9_HW_Raheel_Khan\Lab_9_HW_Raheel_Khan\obj\Debug\netcoreapp2.0\Lab_9_HW_Raheel_Khan.csproj.CoreCompileInputs.cache
+c:\users\raheel.khan\source\repos\Lab_9_HW_Raheel_Khan\Lab_9_HW_Raheel_Khan\obj\Debug\netcoreapp2.0\Lab_9_HW_Raheel_Khan.AssemblyInfoInputs.cache
+c:\users\raheel.khan\source\repos\Lab_9_HW_Raheel_Khan\Lab_9_HW_Raheel_Khan\obj\Debug\netcoreapp2.0\Lab_9_HW_Raheel_Khan.AssemblyInfo.cs
+c:\users\raheel.khan\source\repos\Lab_9_HW_Raheel_Khan\Lab_9_HW_Raheel_Khan\bin\Debug\netcoreapp2.0\Lab_9_HW_Raheel_Khan.deps.json
+c:\users\raheel.khan\source\repos\Lab_9_HW_Raheel_Khan\Lab_9_HW_Raheel_Khan\bin\Debug\netcoreapp2.0\Lab_9_HW_Raheel_Khan.runtimeconfig.json
+c:\users\raheel.khan\source\repos\Lab_9_HW_Raheel_Khan\Lab_9_HW_Raheel_Khan\bin\Debug\netcoreapp2.0\Lab_9_HW_Raheel_Khan.runtimeconfig.dev.json
+c:\users\raheel.khan\source\repos\Lab_9_HW_Raheel_Khan\Lab_9_HW_Raheel_Khan\bin\Debug\netcoreapp2.0\Lab_9_HW_Raheel_Khan.dll
+c:\users\raheel.khan\source\repos\Lab_9_HW_Raheel_Khan\Lab_9_HW_Raheel_Khan\bin\Debug\netcoreapp2.0\Lab_9_HW_Raheel_Khan.pdb
+c:\users\raheel.khan\source\repos\Lab_9_HW_Raheel_Khan\Lab_9_HW_Raheel_Khan\obj\Debug\netcoreapp2.0\Lab_9_HW_Raheel_Khan.dll
+c:\users\raheel.khan\source\repos\Lab_9_HW_Raheel_Khan\Lab_9_HW_Raheel_Khan\obj\Debug\netcoreapp2.0\Lab_9_HW_Raheel_Khan.pdb
