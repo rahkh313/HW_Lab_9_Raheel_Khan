@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\raheel.khan\\source\\repos\\Lab_9_HW_Raheel_Khan\\Lab_9_HW_Raheel_Khan\\Lab_9_HW_Raheel_Khan.csproj",
+      "projectUniqueName": "C:\\Users\\raheel.khan\\source\\repos\\Lab_9_HW_Raheel_Khan\\Lab_9_HW_Raheel_Khan\\Lab_9_HW_Raheel_Khan.csproj",
       "projectName": "Lab_9_HW_Raheel_Khan",
-      "projectPath": "c:\\users\\raheel.khan\\source\\repos\\Lab_9_HW_Raheel_Khan\\Lab_9_HW_Raheel_Khan\\Lab_9_HW_Raheel_Khan.csproj",
+      "projectPath": "C:\\Users\\raheel.khan\\source\\repos\\Lab_9_HW_Raheel_Khan\\Lab_9_HW_Raheel_Khan\\Lab_9_HW_Raheel_Khan.csproj",
       "packagesPath": "C:\\Users\\raheel.khan\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\raheel.khan\\source\\repos\\Lab_9_HW_Raheel_Khan\\Lab_9_HW_Raheel_Khan\\obj\\",
+      "outputPath": "C:\\Users\\raheel.khan\\source\\repos\\Lab_9_HW_Raheel_Khan\\Lab_9_HW_Raheel_Khan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

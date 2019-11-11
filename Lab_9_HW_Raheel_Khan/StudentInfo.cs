@@ -8,8 +8,8 @@ namespace Lab_9_HW_Raheel_Khan
     {
         public string Name;
         public string HomeTown;
-        public string FavoriteFood;
-        public string FavoriteColor;
+        public string Food;
+        public string Color;
 
         //default constructor
         public StudentInfo()
@@ -17,27 +17,13 @@ namespace Lab_9_HW_Raheel_Khan
 
         }
 
-        //overloaded constructor 
-        public StudentInfo(string name)
+        public StudentInfo(string Name, string HomeTown, string Food, string Color)
         {
-            Name = name;
-
-        }
-
-        public StudentInfo(string name, string homeTown)
-        {
-            Name = name;
-            HomeTown = homeTown;
-
-
-        }
-
-        public StudentInfo(string name, string homeTown, string favoriteFood, string favoriteColor)
-        {
-            Name = name;
-            HomeTown = homeTown;
-            FavoriteFood = favoriteFood;
-            FavoriteColor = favoriteColor;
+            this.Name = Name;
+            this.HomeTown = HomeTown;
+            this.Food = Food;
+            this.Color = Color;
+            
         }
 
     }
